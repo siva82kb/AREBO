@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Ignore data files in the folder.
+opt_data/*.npy
+opt_data/*.csv
+opt_est/*.json
+est_data/*.csv
